@@ -1,0 +1,8 @@
+{
+    "welcome": "Welcome to My App",
+    "example": {
+        "information": "Use Flutter modular format correctly",
+        "world": "World!",
+        "helloWorldd": "@:example.hello @:example.world"
+      }
+}
