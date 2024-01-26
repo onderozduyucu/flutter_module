@@ -1,16 +1,3 @@
-# flutter_module
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Flutter Modular Architecture | code generation json asset svg lottie easylocalization image color](https://github.com/onderozduyucu/flutter_module/assets/149434617/06110d97-4731-44ed-8e98-e3ac5285d59b)](https://www.youtube.com/watch?v=d-LOUWaWIcY)
